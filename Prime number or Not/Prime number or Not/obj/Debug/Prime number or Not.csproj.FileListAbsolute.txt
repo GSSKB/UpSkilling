@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\bin\Debug\Prime number or Not.exe.config
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\bin\Debug\Prime number or Not.exe
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\bin\Debug\Prime number or Not.pdb
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\obj\Debug\Prime number or Not.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\obj\Debug\Prime number or Not.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\obj\Debug\Prime number or Not.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\obj\Debug\Prime number or Not.exe
+D:\.NET\Bench Practice\Prime number or Not\Prime number or Not\obj\Debug\Prime number or Not.pdb

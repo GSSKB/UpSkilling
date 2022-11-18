@@ -1,0 +1,8 @@
+UpSkilling:
+
+
+1.Completed Career Framework Assessment
+
+2.Done Fundamentals of Azure-900 certification
+
+3.Learnt SQL Database deployment on PAAS

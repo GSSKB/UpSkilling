@@ -1,0 +1,8 @@
+D:\.NET\Bench Practice\String array list\String array list\bin\Debug\String array list.exe.config
+D:\.NET\Bench Practice\String array list\String array list\bin\Debug\String array list.exe
+D:\.NET\Bench Practice\String array list\String array list\bin\Debug\String array list.pdb
+D:\.NET\Bench Practice\String array list\String array list\obj\Debug\String array list.csproj.AssemblyReference.cache
+D:\.NET\Bench Practice\String array list\String array list\obj\Debug\String array list.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Bench Practice\String array list\String array list\obj\Debug\String array list.csproj.CoreCompileInputs.cache
+D:\.NET\Bench Practice\String array list\String array list\obj\Debug\String array list.exe
+D:\.NET\Bench Practice\String array list\String array list\obj\Debug\String array list.pdb
